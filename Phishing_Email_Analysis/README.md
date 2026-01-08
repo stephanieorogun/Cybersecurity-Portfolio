@@ -1,25 +1,94 @@
-# Phishing Email Analysis – Beginner Project
+\# Phishing Email Analysis – Beginner Cybersecurity Project
 
-## Objective
-The goal of this project is to learn how to identify a phishing email
-by checking for common warning signs.
 
-## Tools Used
-- Email sample (training example)
-- Observation skills
-- Basic cybersecurity knowledge
 
-## Steps Taken
-1. I checked the sender’s email address.
-2. I looked for spelling and grammar mistakes.
-3. I checked if the email created fear or urgency.
-4. I inspected the link without clicking it.
 
-## Findings
-I noticed that the email tried to scare the user and asked for
-personal information, which is a common phishing technique.
 
-## What I Learned
-This project helped me understand how phishing emails trick users
-and how to stay safe by carefully checking emails before clicking
-any links.
+
+
+\## Project Overview
+
+
+
+This project demonstrates my ability to identify phishing emails by
+
+
+
+analysing common red flags used by attackers to trick users.
+
+
+
+
+
+
+
+\## Tools and Skills Used
+
+
+
+\- Email analysis
+
+
+
+\- Attention to detail
+
+
+
+\- Cybersecurity awareness
+
+
+
+
+
+
+
+\## Analysis Process
+
+
+
+1\. Reviewed the sender’s email address for inconsistencies.
+
+
+
+2\. Checked for spelling and grammar errors.
+
+
+
+3\. Looked for urgent or threatening language.
+
+
+
+4\. Examined links without clicking on them.
+
+
+
+
+
+
+
+\## Results
+
+
+
+The email displayed multiple phishing indicators, including urgency,
+
+
+
+suspicious links, and requests for personal information.
+
+
+
+
+
+
+
+\## Key Takeaways
+
+
+
+This project improved my understanding of social engineering attacks
+
+
+
+and reinforced the importance of cautious email handling.
+

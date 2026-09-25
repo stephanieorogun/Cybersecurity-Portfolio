@@ -38,6 +38,8 @@ Welcome! I'm building hands-on skills in cybersecurity — focusing on threat an
 - ⬜ Incident Response — Coming Soon
 
 ---
-
 ## 📫 Connect
+- **TryHackMe:** https://tryhackme.com/p/enemmohchiamaka
+- **LinkedIn:** https://linkedin.com/in/stephanie-orogun-978099166
+- **Email:** enemmohchiamaka@gmail.com
 - **GitHub:** You're here!

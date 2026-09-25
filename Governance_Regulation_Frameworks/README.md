@@ -1,7 +1,5 @@
 # Cybersecurity Governance, Regulation & Frameworks
-**Status:** ✅ Completed | **Source:** TryHackMe — Governance & Regulation [https://tryhackme.com/room/cybergovernanceregulation?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=690f7c75af7a318a60b1d7e9]
-**Focus:** GRC, ISO 27001, NIST 800-53, GDPR, PCI-DSS, HIPAA
-
+**Status:** ✅ Completed | **Source:** [TryHackMe — Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation) | **Focus:** GRC, ISO 27001, NIST 800-53, GDPR, PCI-DSS, HIPAA
 ---
 
 ## What This Project Is

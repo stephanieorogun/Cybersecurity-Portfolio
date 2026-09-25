@@ -1,86 +1,33 @@
-# Password Security Analysis – Beginner Cybersecurity Project
+# Password Security & Cracking Analysis
+**Status:** completed | **Source:** TryHackMe — Password Cracking & Hashing Basics
+**Tools:** hashid, Hashcat, John the Ripper, rockyou.txt wordlist
 
+## 🎯 What This Project Is
+I didn’t just follow tasks — I compared how passwords are protected across different systems, tested how easily they can be cracked, and worked out what actually makes a password strong.
 
+## 🔍 What I Investigated
+- How plain-text storage leaves every account exposed instantly
+- Why hashing works — and the 4 properties that make it secure
+- How salting defeats rainbow table attacks
+- MD5 vs SHA-1 vs bcrypt — side-by-side comparison of speed vs security
 
-## Project Overview
+## 🧪 Hands-On Testing
+- Identified unknown hash types using `hashid`
+- Ran dictionary attacks with Hashcat against real hashes
+- Saw first-hand: fast hashes (MD5) crack in seconds; bcrypt takes far longer — and that’s intentional
+- Found that two identical passwords using different algorithms produce completely different hashes
 
-This project analyses password security by examining common weaknesses
+## 📋 Key Findings
+- MD5 & SHA-1 → fast to compute, fast to crack → **never use for passwords**
+- bcrypt → designed to be slow → best defence against brute-force
+- Salting means every password must be cracked individually — no bulk rainbow-table shortcuts
+- Length beats complexity alone → 12+ characters > mixing symbols in short passwords
 
-in user-created passwords and how these weaknesses increase the risk
+## ✅ Recommendations
+- Use bcrypt / Argon2 for password storage
+- Enforce minimum 12-character passwords + MFA
+- Never store passwords in plain text or unsalted hashes
+- Block common breached passwords at input stage
 
-of brute-force and credential-based attacks.
-
-
-## Technical Concepts Covered
-
-- Password entropy
-
-- Brute-force attacks
-
-- Dictionary attacks
-
-- Credential reuse
-
-- Authentication security
-
-
-
-## Tools and Skills Used
-
-- Password strength analysis
-
-- Threat modelling
-
-- Security best practices
-
-- Risk awareness
-
-
-
-## Analysis Process
-
-1. Identified examples of weak passwords based on length, predictability,
-
-   and character variety.
-
-2. Analysed how attackers use brute-force and dictionary attacks
-
-   to guess weak passwords.
-
-3. Reviewed the impact of password reuse across multiple services.
-
-4. Evaluated best practices such as password length, complexity,
-
-   and uniqueness.
-
-
-
-## Findings
-
-Short and predictable passwords with common patterns are vulnerable
-
-to automated attacks. Reused passwords significantly increase the
-
-risk of account compromise when a single service is breached.
-
-
-
-## Security Recommendations
-
-- Use passwords with a minimum length of 12–16 characters.
-
-- Avoid dictionary words and predictable patterns.
-
-- Use unique passwords for each service.
-
-- Implement multi-factor authentication (MFA) where possible.
-
-
-
-## What I Learned
-
-This project strengthened my understanding of how poor password
-
-practices contribute to account compromise and how strong
-
-authentication controls reduce security risk.
+## 🧠 What I Learned
+Security isn’t about picking one “best” tool — it’s understanding *why* some methods fail and others hold up. The best protection is slowing attackers down until it’s no longer worth their time.

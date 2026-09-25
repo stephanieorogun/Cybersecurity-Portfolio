@@ -21,5 +21,6 @@ Welcome! I’m building hands-on skills in cybersecurity — focusing on threat 
 - Focus: Defensive security, SIEM, incident investigation
 
 ## 📫 Connect
-- GitHub: [https://github.com/stephanieorogun]
-- LinkedIn: [linkedin.com/in/stephanie-orogun-978099166]
+- **GitHub:** https://github.com/stephanieorogun
+- **LinkedIn:** https://linkedin.com/in/stephanie-orogun-978099166
+- **Email:** enemmohchiamaka@gmail.com

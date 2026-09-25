@@ -11,10 +11,10 @@ Welcome! I’m building hands-on skills in cybersecurity — focusing on threat 
 | 5 | Blue Team Incident Response Walkthrough | Defence & IR | ⏳ Planned |
 
 ## 📜 Certifications
-- **Google Cybersecurity Professional Certificate** — Completed [Month 2026]
+- **Google Cybersecurity Professional Certificate** — Completed [January 2026]
   Covered: threat analysis, network security, risk management, SIEM & incident response basics
 
-- **CompTIA A+** — 📖 In Progress | Exam scheduled: [Month/Year 2026]
+- **CompTIA A+** — 📖 In Progress | Exam scheduled: November 2026
   Building core hardware, networking, and system administration fundamentals — essential for any cybersecurity role
   
 ## 🛠️ Tools & Technologies
